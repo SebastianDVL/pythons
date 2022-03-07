@@ -6,8 +6,6 @@ def palindromo(palabra):
     else: 
         return False
     
-
-
 def run():
     palabra = input("Escribe una palabra: ")
 
